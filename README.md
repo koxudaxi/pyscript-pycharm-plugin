@@ -4,6 +4,9 @@
 
 PyCharm plugin for [PyScript](https://pyscript.net/).
 
+## ScreenShots
+![demo1](./docs/demo1.png)
+
 ## Sponsors
 [![JetBrains](https://avatars.githubusercontent.com/u/60931315?s=200&v=4)](https://github.com/JetBrainsOfficial)
 
