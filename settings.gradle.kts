@@ -1,1 +1,0 @@
-rootProject.name = "pyscript-pycharm-plugin"
